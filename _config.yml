@@ -4,3 +4,4 @@ plugins:
 title: Basecamp for the Adventure
 description: Capturing the adventure of learning new technologies and techniques
 show_downloads: false
+lsi: BOOL
