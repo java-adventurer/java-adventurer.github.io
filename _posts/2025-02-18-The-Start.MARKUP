@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  The Start of the Adventure!"
+title: The Start of the Adventure!"
+date: '2025-03-16'
 ---
+# Welcome to the Adventure!
 
-# Welcome
+Hello, this is my first Jekyll blog post.
 
-**Hello**, this is my first Jekyll blog post.
+It is the start of my next adventure. Machine Learning and Neural Networks.
 
-It is the start of my next adventure. Maching Learning.
+After some reading and research on how to learn Machine Learning and Neural Networks, it was suggested to keep a blog on the learning process in addition to using a cloud hosted Git server to track projects. That is the role of this blog. To capture that journey.
